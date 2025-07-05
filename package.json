@@ -3,7 +3,7 @@
   "version": "1.0.4",
   "main": "./lib/index.js",
   "exports": {
-    ".": "./lib/index.js"
+    ".": "./index.js"
   },
   "type": "module",
   "typings": "./lib/index.d.ts",
